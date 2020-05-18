@@ -1,0 +1,9 @@
+L:\Proyectos Web\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.deps.json
+L:\Proyectos Web\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.dll
+L:\Proyectos Web\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.pdb
+L:\Proyectos Web\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csprojAssemblyReference.cache
+L:\Proyectos Web\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfoInputs.cache
+L:\Proyectos Web\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfo.cs
+L:\Proyectos Web\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csproj.CoreCompileInputs.cache
+L:\Proyectos Web\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.dll
+L:\Proyectos Web\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.pdb

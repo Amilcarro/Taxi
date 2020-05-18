@@ -1,0 +1,12 @@
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.deps.json
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.dll
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\bin\Debug\netstandard2.0\Taxi.Prism.pdb
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csprojAssemblyReference.cache
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\App.xaml.g.cs
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfoInputs.cache
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfo.cs
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CoreCompileInputs.cache
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\XamlC.stamp
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.dll
+L:\Proyectos Web\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.pdb

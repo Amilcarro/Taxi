@@ -1,0 +1,15 @@
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\bin\iPhone\Debug\Taxi.Cross.iOS.exe
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\bin\iPhone\Debug\Taxi.Cross.iOS.pdb
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\optimized\
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\Taxi.Cross.iOS.csprojAssemblyReference.cache
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\Taxi.Cross.iOS.csproj.CoreCompileInputs.cache
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\Taxi.Cross.iOS.csproj.CopyComplete
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\Taxi.Cross.iOS.exe
+L:\Proyectos Web\Taxi\Taxi.Cross.iOS\obj\iPhone\Debug\Taxi.Cross.iOS.pdb
