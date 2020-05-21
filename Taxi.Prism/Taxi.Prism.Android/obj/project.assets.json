@@ -2256,11 +2256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\Taxi.Prism.Android.csproj",
+      "projectUniqueName": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\Taxi.Prism.Android.csproj",
       "projectName": "Taxi.Prism.Android",
-      "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\Taxi.Prism.Android.csproj",
+      "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\Taxi.Prism.Android.csproj",
       "packagesPath": "C:\\Users\\Amilcar\\.nuget\\packages\\",
-      "outputPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\obj\\",
+      "outputPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2283,8 +2283,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj": {
-              "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj"
+            "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj": {
+              "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj"
             }
           }
         }

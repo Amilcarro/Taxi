@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj": {}
+    "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj": {}
   },
   "projects": {
-    "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj": {
+    "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
+        "projectUniqueName": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
         "projectName": "Taxi.Prism.iOS",
-        "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
+        "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
         "packagesPath": "C:\\Users\\Amilcar\\.nuget\\packages\\",
-        "outputPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\obj\\",
+        "outputPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj": {
-                "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj"
+              "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj": {
+                "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj": {
+    "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj",
+        "projectUniqueName": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj",
         "projectName": "Taxi.Prism",
-        "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj",
+        "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\Taxi.Prism.csproj",
         "packagesPath": "C:\\Users\\Amilcar\\.nuget\\packages\\",
-        "outputPath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism\\obj\\",
+        "outputPath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

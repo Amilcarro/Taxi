@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Proyectos Web\\Taxi\\Taxi.Common\\Taxi.Common.csproj": {}
+    "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj": {}
   },
   "projects": {
-    "L:\\Proyectos Web\\Taxi\\Taxi.Common\\Taxi.Common.csproj": {
+    "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Proyectos Web\\Taxi\\Taxi.Common\\Taxi.Common.csproj",
+        "projectUniqueName": "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj",
         "projectName": "Taxi.Common",
-        "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Common\\Taxi.Common.csproj",
+        "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj",
         "packagesPath": "C:\\Users\\Amilcar\\.nuget\\packages\\",
-        "outputPath": "L:\\Proyectos Web\\Taxi\\Taxi.Common\\obj\\",
+        "outputPath": "F:\\Proyectos\\Taxi\\Taxi.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

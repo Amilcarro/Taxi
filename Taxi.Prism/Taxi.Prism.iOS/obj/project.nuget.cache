@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kPrQsN0L1iiP33zs124pNMgPO2aYYAs2jGO6stOwgTRIMFePPIUb9tCV8Uy1moDSnkIytyM0P2SNkDuPbxNE1Q==",
+  "dgSpecHash": "mVdA6NsMld6YH8Tmbv6RC2kxDf2PhijD7UPxRWbAzi3wNQJZf2W6GIY8JNHg9brO63vNCbYXxiaRfOJzPmaAXQ==",
   "success": true,
-  "projectFilePath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
+  "projectFilePath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amilcar\\.nuget\\packages\\dryioc.dll\\4.0.7\\dryioc.dll.4.0.7.nupkg.sha512",
     "C:\\Users\\Amilcar\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",

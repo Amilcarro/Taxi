@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EevO1BNuZI+uVl28+RAS3bwu/cM44UekJQRSn3nJmw6AuCsM6LPs66lh3AcuQCGSHN9rmioh8jOrKxQutDeAnw==",
+  "dgSpecHash": "aVfqtl8SnHNFptXM2dJsRGiqTHy/qAa8YataOTfEQpWsaLlTqbridgw3Dp5Nfu9OUN7binSx4PlbXRKc80P2fQ==",
   "success": true,
-  "projectFilePath": "L:\\Proyectos Web\\Taxi\\Taxi.Common\\Taxi.Common.csproj",
+  "projectFilePath": "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

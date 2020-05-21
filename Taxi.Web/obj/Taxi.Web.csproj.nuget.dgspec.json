@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Proyectos Web\\Taxi\\Taxi.Web\\Taxi.Web.csproj": {}
+    "F:\\Proyectos\\Taxi\\Taxi.Web\\Taxi.Web.csproj": {}
   },
   "projects": {
-    "L:\\Proyectos Web\\Taxi\\Taxi.Web\\Taxi.Web.csproj": {
+    "F:\\Proyectos\\Taxi\\Taxi.Web\\Taxi.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Proyectos Web\\Taxi\\Taxi.Web\\Taxi.Web.csproj",
+        "projectUniqueName": "F:\\Proyectos\\Taxi\\Taxi.Web\\Taxi.Web.csproj",
         "projectName": "Taxi.Web",
-        "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Web\\Taxi.Web.csproj",
+        "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Web\\Taxi.Web.csproj",
         "packagesPath": "C:\\Users\\Amilcar\\.nuget\\packages\\",
-        "outputPath": "L:\\Proyectos Web\\Taxi\\Taxi.Web\\obj\\",
+        "outputPath": "F:\\Proyectos\\Taxi\\Taxi.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -219,11 +219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Proyectos Web\\Taxi\\Taxi.Cross.iOS\\Taxi.Cross.iOS.csproj",
+      "projectUniqueName": "F:\\Proyectos\\Taxi\\Taxi.Cross.iOS\\Taxi.Cross.iOS.csproj",
       "projectName": "Taxi.Cross.iOS",
-      "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Cross.iOS\\Taxi.Cross.iOS.csproj",
+      "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Cross.iOS\\Taxi.Cross.iOS.csproj",
       "packagesPath": "C:\\Users\\Amilcar\\.nuget\\packages\\",
-      "outputPath": "L:\\Proyectos Web\\Taxi\\Taxi.Cross.iOS\\obj\\",
+      "outputPath": "F:\\Proyectos\\Taxi\\Taxi.Cross.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

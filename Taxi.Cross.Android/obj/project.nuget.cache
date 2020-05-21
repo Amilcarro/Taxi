@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FI6X8aPDrrNlw32Z7Hq7ubTq3zxIagvXO0gXnAiNg2uVqLvMXBvMBTQCp4YWcEJpiepxtSFjzRDC1ZCV+0OM9Q==",
+  "dgSpecHash": "sKHtGCWseJKYcOlbpV8qzNFpzioAr+76wLvpP1HHTs+gCHirKdhf4vcASiUeAEKA2GPJajtkjfKQyMAnmOQuCA==",
   "success": true,
-  "projectFilePath": "L:\\Proyectos Web\\Taxi\\Taxi.Cross.Android\\Taxi.Cross.Android.csproj",
+  "projectFilePath": "F:\\Proyectos\\Taxi\\Taxi.Cross.Android\\Taxi.Cross.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amilcar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

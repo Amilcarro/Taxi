@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6T17GxUEwlGll+jV1aIVbahOdfHS0Zyxygx5Hpg2AXzD6ukJlU69MHh1OxQcfPZMXVBbznMy3FMwD5oFBSkFg==",
+  "dgSpecHash": "UHK7pVRND0EwrQTtQx5TmOV76632hbr1Ov53QPJQP022yMttXHVffcSNWEfhhhe7Iu7cax/T8XOUolX1F72hdQ==",
   "success": true,
-  "projectFilePath": "L:\\Proyectos Web\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\Taxi.Prism.Android.csproj",
+  "projectFilePath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.Android\\Taxi.Prism.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amilcar\\.nuget\\packages\\dryioc.dll\\4.0.7\\dryioc.dll.4.0.7.nupkg.sha512",
     "C:\\Users\\Amilcar\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",

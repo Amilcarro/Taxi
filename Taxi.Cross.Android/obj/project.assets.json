@@ -1557,11 +1557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Proyectos Web\\Taxi\\Taxi.Cross.Android\\Taxi.Cross.Android.csproj",
+      "projectUniqueName": "F:\\Proyectos\\Taxi\\Taxi.Cross.Android\\Taxi.Cross.Android.csproj",
       "projectName": "Taxi.Cross.Android",
-      "projectPath": "L:\\Proyectos Web\\Taxi\\Taxi.Cross.Android\\Taxi.Cross.Android.csproj",
+      "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Cross.Android\\Taxi.Cross.Android.csproj",
       "packagesPath": "C:\\Users\\Amilcar\\.nuget\\packages\\",
-      "outputPath": "L:\\Proyectos Web\\Taxi\\Taxi.Cross.Android\\obj\\",
+      "outputPath": "F:\\Proyectos\\Taxi\\Taxi.Cross.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

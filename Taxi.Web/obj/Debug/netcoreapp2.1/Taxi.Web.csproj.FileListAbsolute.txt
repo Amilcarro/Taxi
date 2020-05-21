@@ -38,3 +38,43 @@ L:\Proyectos Web\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Create.
 L:\Proyectos Web\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Details.cshtml.g.cs
 L:\Proyectos Web\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Edit.cshtml.g.cs
 L:\Proyectos Web\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Index.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Web.deps.json
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Web.runtimeconfig.json
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Web.runtimeconfig.dev.json
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Web.dll
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Web.pdb
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Web.Views.dll
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Web.Views.pdb
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.csprojAssemblyReference.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.AssemblyInfoInputs.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.AssemblyInfo.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.csproj.CoreCompileInputs.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorAssemblyInfo.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorAssemblyInfo.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.TagHelpers.input.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.TagHelpers.output.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorCoreGenerate.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Create.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Details.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Edit.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Taxis\Index.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorTargetAssemblyInfo.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.RazorTargetAssemblyInfo.cs
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.Views.pdb
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.dll
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.pdb
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.genruntimeconfig.cache
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.csproj.CopyComplete
