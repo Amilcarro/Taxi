@@ -4615,6 +4615,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Taxi.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        }
       }
     }
   },
@@ -12527,6 +12537,11 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Taxi.Common/1.0.0": {
+      "type": "project",
+      "path": "../Taxi.Common/Taxi.Common.csproj",
+      "msbuildProject": "../Taxi.Common/Taxi.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12534,7 +12549,8 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.10"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.10",
+      "Taxi.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12571,7 +12587,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj": {
+              "projectPath": "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

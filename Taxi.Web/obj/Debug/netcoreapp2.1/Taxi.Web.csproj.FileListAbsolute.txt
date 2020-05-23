@@ -78,3 +78,6 @@ F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.dll
 F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.pdb
 F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.genruntimeconfig.cache
 F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Taxi.Web.csproj.CopyComplete
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Common.dll
+F:\Proyectos\Taxi\Taxi.Web\bin\Debug\netcoreapp2.1\Taxi.Common.pdb
+F:\Proyectos\Taxi\Taxi.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DeleteDialog.cshtml.g.cs
