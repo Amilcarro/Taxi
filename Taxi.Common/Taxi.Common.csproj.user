@@ -5,5 +5,17 @@
     <Compile Update="Enums\UserType.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Models\TaxiResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\TripDetailResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\TripResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\UserResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
