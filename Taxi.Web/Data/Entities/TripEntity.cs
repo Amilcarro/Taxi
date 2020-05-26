@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using Taxi.Common.Models;
 
 namespace Taxi.Web.Data.Entities
 {
     public class TripEntity
     {
+        internal List<TripDetailResponse> TripDetails;
+
         public int Id { get; set; }
 
         [DataType(DataType.DateTime)]

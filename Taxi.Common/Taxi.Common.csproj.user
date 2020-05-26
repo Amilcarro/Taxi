@@ -5,6 +5,9 @@
     <Compile Update="Enums\UserType.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Models\Menu.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Models\TaxiResponse.cs">
       <SubType>Code</SubType>
     </Compile>

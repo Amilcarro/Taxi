@@ -58,7 +58,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.5.2": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -71,10 +71,10 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Essentials.Interfaces/1.5.2": {
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.2"
+          "Xamarin.Essentials": "1.5.3.2"
         },
         "compile": {
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
@@ -83,7 +83,7 @@
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
         }
       },
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.7.0.813-pre2": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -204,13 +204,39 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.Maps/4.7.0.813-pre2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.7.0.813-pre2"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        }
+      },
+      "Taxi.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        }
+      },
       "Taxi.Prism/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Prism.DryIoc.Forms": "7.2.0.1422",
-          "Xamarin.Essentials.Interfaces": "1.5.2",
-          "Xamarin.Forms": "4.5.0.617"
+          "Taxi.Common": "1.0.0",
+          "Xamarin.Essentials.Interfaces": "1.5.3.2",
+          "Xamarin.Forms": "4.7.0.813-pre2",
+          "Xamarin.Forms.Maps": "4.7.0.813-pre2"
         },
         "compile": {
           "bin/placeholder/Taxi.Prism.dll": {}
@@ -277,7 +303,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.5.2": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -290,10 +316,10 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Essentials.Interfaces/1.5.2": {
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.2"
+          "Xamarin.Essentials": "1.5.3.2"
         },
         "compile": {
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
@@ -302,7 +328,7 @@
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
         }
       },
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.7.0.813-pre2": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -423,13 +449,39 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.Maps/4.7.0.813-pre2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.7.0.813-pre2"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        }
+      },
+      "Taxi.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        }
+      },
       "Taxi.Prism/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Prism.DryIoc.Forms": "7.2.0.1422",
-          "Xamarin.Essentials.Interfaces": "1.5.2",
-          "Xamarin.Forms": "4.5.0.617"
+          "Taxi.Common": "1.0.0",
+          "Xamarin.Essentials.Interfaces": "1.5.3.2",
+          "Xamarin.Forms": "4.7.0.813-pre2",
+          "Xamarin.Forms.Maps": "4.7.0.813-pre2"
         },
         "compile": {
           "bin/placeholder/Taxi.Prism.dll": {}
@@ -496,7 +548,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.5.2": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -509,10 +561,10 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Essentials.Interfaces/1.5.2": {
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.2"
+          "Xamarin.Essentials": "1.5.3.2"
         },
         "compile": {
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
@@ -521,7 +573,7 @@
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
         }
       },
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.7.0.813-pre2": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -642,13 +694,39 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.Maps/4.7.0.813-pre2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.7.0.813-pre2"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        }
+      },
+      "Taxi.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        }
+      },
       "Taxi.Prism/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Prism.DryIoc.Forms": "7.2.0.1422",
-          "Xamarin.Essentials.Interfaces": "1.5.2",
-          "Xamarin.Forms": "4.5.0.617"
+          "Taxi.Common": "1.0.0",
+          "Xamarin.Essentials.Interfaces": "1.5.3.2",
+          "Xamarin.Forms": "4.7.0.813-pre2",
+          "Xamarin.Forms.Maps": "4.7.0.813-pre2"
         },
         "compile": {
           "bin/placeholder/Taxi.Prism.dll": {}
@@ -715,7 +793,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.5.2": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -728,10 +806,10 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Essentials.Interfaces/1.5.2": {
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.2"
+          "Xamarin.Essentials": "1.5.3.2"
         },
         "compile": {
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
@@ -740,7 +818,7 @@
           "lib/netstandard2.0/Essential.Interfaces.dll": {}
         }
       },
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.7.0.813-pre2": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -861,13 +939,39 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.Maps/4.7.0.813-pre2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.7.0.813-pre2"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
+        }
+      },
+      "Taxi.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Taxi.Common.dll": {}
+        }
+      },
       "Taxi.Prism/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Prism.DryIoc.Forms": "7.2.0.1422",
-          "Xamarin.Essentials.Interfaces": "1.5.2",
-          "Xamarin.Forms": "4.5.0.617"
+          "Taxi.Common": "1.0.0",
+          "Xamarin.Essentials.Interfaces": "1.5.3.2",
+          "Xamarin.Forms": "4.7.0.813-pre2",
+          "Xamarin.Forms.Maps": "4.7.0.813-pre2"
         },
         "compile": {
           "bin/placeholder/Taxi.Prism.dll": {}
@@ -1007,10 +1111,10 @@
         "system.reflection.emit.lightweight.nuspec"
       ]
     },
-    "Xamarin.Essentials/1.5.2": {
-      "sha512": "qHxkrkx5jIC0X/qWhxCPZ3MuuOJm8bfCzAoUtlpOBSE4oV0JhrkTezK0A+IV+k/MeJ3zKc8FexaIXah9rlCTIw==",
+    "Xamarin.Essentials/1.5.3.2": {
+      "sha512": "BSLgDJUOPFRwTpQaftM+s4qb/MsTjrqXulEYDOcK6KF3i0Orf75zo3RwRfqnQ8WfpoEFxW/v0jgcPWCvOMgHxg==",
       "type": "package",
-      "path": "xamarin.essentials/1.5.2",
+      "path": "xamarin.essentials/1.5.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1051,29 +1155,30 @@
         "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
         "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.5.2.nupkg.sha512",
+        "xamarin.essentials.1.5.3.2.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Essentials.Interfaces/1.5.2": {
-      "sha512": "6IuMCgI40OCDcDdVFRjhOG2ooFiHwHLwfrlOlpfhYwOAmn+XHWHLC1qHtcrX5eQ+Hz3Sh1AnxU2oqOqujLPq5g==",
+    "Xamarin.Essentials.Interfaces/1.5.3.2": {
+      "sha512": "TfMF7sbc+2FT3PpU0CosSVSvOh6nzB1N4D3iTrZRg9/9DZejXWUCgmR+3iU3I7ydwRhiohKTPa4Gkw5WZEfQyQ==",
       "type": "package",
-      "path": "xamarin.essentials.interfaces/1.5.2",
+      "path": "xamarin.essentials.interfaces/1.5.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Essential.Interfaces.dll",
-        "xamarin.essentials.interfaces.1.5.2.nupkg.sha512",
+        "xamarin.essentials.interfaces.1.5.3.2.nupkg.sha512",
         "xamarin.essentials.interfaces.nuspec"
       ]
     },
-    "Xamarin.Forms/4.5.0.617": {
-      "sha512": "tB/h7bHEylOgNT+521SRnbmO+LCe5R3lPboD/icCMpa+FdjmxhZQ7+fIIPFDbhY2dqYetGRnAeJWXVx4NLbmAw==",
+    "Xamarin.Forms/4.7.0.813-pre2": {
+      "sha512": "TRrX0jguALBqz3nlZSRyAsMbRN671Xt+fy/07RPSjTPG24gcS+4Hrjzua0sJJWXIl4rfh0VYkKoVwfkbZm2mOg==",
       "type": "package",
-      "path": "xamarin.forms/4.5.0.617",
+      "path": "xamarin.forms/4.7.0.813-pre2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "Assets/xamarin_128x128.png",
         "build/MonoAndroid10/proguard.cfg",
         "build/XCODE10/Xamarin.Forms.Platform.iOS.dll",
         "build/XCODE10/Xamarin.Forms.Platform.iOS.pdb",
@@ -1333,8 +1438,8 @@
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/Microsoft.UI.Xaml/Themes/generic.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/PageControlStyle.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/PickerStyle.xaml",
+        "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/PromptDialog.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/Resources.xaml",
-        "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/Shell/ShellStyles.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/SliderStyle.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/StepperControl.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xaml",
@@ -1365,6 +1470,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Microsoft.UI.Xaml/Themes/generic.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/PageControlStyle.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/PickerStyle.xaml",
+        "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/PromptDialog.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Resources.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Shell/ShellStyles.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/SliderStyle.xaml",
@@ -1375,9 +1481,51 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.5.0.617.nupkg.sha512",
+        "xamarin.forms.4.7.0.813-pre2.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "Xamarin.Forms.Maps/4.7.0.813-pre2": {
+      "sha512": "cW+E9edqBCaDmqFQGuhe5HVE/qOX5pgL3tVOENlhTJdwGA/asEAUxrGsH+nW13cqcA4u1o+qG4KTLywpy9nLlg==",
+      "type": "package",
+      "path": "xamarin.forms.maps/4.7.0.813-pre2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Assets/xamarin_128x128.png",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Maps.Android.dll",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Maps.dll",
+        "lib/MonoAndroid10.0/Xamarin.Forms.Maps.xml",
+        "lib/MonoAndroid90/Xamarin.Forms.Maps.Android.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Maps.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Maps.xml",
+        "lib/Xamarin.Mac/Xamarin.Forms.Maps.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Maps.macOS.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Maps.xml",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Maps.xml",
+        "lib/netstandard1.0/Xamarin.Forms.Maps.dll",
+        "lib/netstandard1.0/Xamarin.Forms.Maps.xml",
+        "lib/netstandard2.0/Xamarin.Forms.Maps.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Maps.xml",
+        "lib/tizen40/Xamarin.Forms.Maps.Tizen.dll",
+        "lib/tizen40/Xamarin.Forms.Maps.dll",
+        "lib/tizen40/Xamarin.Forms.Maps.xml",
+        "lib/uap10.0.14393/Xamarin.Forms.Maps.UWP.dll",
+        "lib/uap10.0.14393/Xamarin.Forms.Maps.UWP.pri",
+        "lib/uap10.0.14393/Xamarin.Forms.Maps.dll",
+        "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.dll",
+        "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.pri",
+        "lib/uap10.0.16299/Xamarin.Forms.Maps.dll",
+        "xamarin.forms.maps.4.7.0.813-pre2.nupkg.sha512",
+        "xamarin.forms.maps.nuspec"
+      ]
+    },
+    "Taxi.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Taxi.Common/Taxi.Common.csproj",
+      "msbuildProject": "../../Taxi.Common/Taxi.Common.csproj"
     },
     "Taxi.Prism/1.0.0": {
       "type": "project",
@@ -1389,8 +1537,9 @@
     "Xamarin.iOS,Version=v1.0": [
       "Prism.DryIoc.Forms >= 7.2.0.1422",
       "Taxi.Prism >= 1.0.0",
-      "Xamarin.Essentials.Interfaces >= 1.5.2",
-      "Xamarin.Forms >= 4.5.0.617"
+      "Xamarin.Essentials.Interfaces >= 1.5.3.2",
+      "Xamarin.Forms >= 4.7.0.813-pre2",
+      "Xamarin.Forms.Maps >= 4.7.0.813-pre2"
     ]
   },
   "packageFolders": {
@@ -1443,11 +1592,15 @@
           },
           "Xamarin.Essentials.Interfaces": {
             "target": "Package",
-            "version": "[1.5.2, )"
+            "version": "[1.5.3.2, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.5.0.617, )"
+            "version": "[4.7.0.813-pre2, )"
+          },
+          "Xamarin.Forms.Maps": {
+            "target": "Package",
+            "version": "[4.7.0.813-pre2, )"
           }
         }
       }

@@ -11,8 +11,10 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Prism.DryIoc.Forms": "7.2.0.1422",
-          "Xamarin.Essentials.Interfaces": "1.5.2",
-          "Xamarin.Forms": "4.5.0.617"
+          "Taxi.Common": "1.0.0",
+          "Xamarin.Essentials.Interfaces": "1.5.3.2",
+          "Xamarin.Forms": "4.7.0.813-pre2",
+          "Xamarin.Forms.Maps": "4.7.0.813-pre2"
         },
         "runtime": {
           "Taxi.Prism.dll": {}
@@ -59,7 +61,7 @@
       "Prism.Forms/7.2.0.1422": {
         "dependencies": {
           "Prism.Core": "7.2.0.1422",
-          "Xamarin.Forms": "4.5.0.617"
+          "Xamarin.Forms": "4.7.0.813-pre2"
         },
         "runtime": {
           "lib/netstandard2.0/Prism.Forms.dll": {
@@ -148,7 +150,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "Xamarin.Essentials/1.5.2": {
+      "Xamarin.Essentials/1.5.3.2": {
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
         },
@@ -159,31 +161,47 @@
           }
         }
       },
-      "Xamarin.Essentials.Interfaces/1.5.2": {
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
         "dependencies": {
-          "Xamarin.Essentials": "1.5.2"
+          "Xamarin.Essentials": "1.5.3.2"
         },
         "runtime": {
           "lib/netstandard2.0/Essential.Interfaces.dll": {
-            "assemblyVersion": "1.5.2.0",
-            "fileVersion": "1.5.2.0"
+            "assemblyVersion": "1.5.3.2",
+            "fileVersion": "1.5.3.2"
           }
         }
       },
-      "Xamarin.Forms/4.5.0.617": {
+      "Xamarin.Forms/4.7.0.813-pre2": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "4.5.0.216"
+            "fileVersion": "4.7.0.293"
           },
           "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "4.5.0.216"
+            "fileVersion": "4.7.0.293"
           },
           "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "4.5.0.216"
+            "fileVersion": "4.7.0.293"
           }
+        }
+      },
+      "Xamarin.Forms.Maps/4.7.0.813-pre2": {
+        "dependencies": {
+          "Xamarin.Forms": "4.7.0.813-pre2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.7.0.293"
+          }
+        }
+      },
+      "Taxi.Common/1.0.0": {
+        "runtime": {
+          "Taxi.Common.dll": {}
         }
       }
     }
@@ -306,26 +324,38 @@
       "path": "system.threading.tasks/4.3.0",
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
-    "Xamarin.Essentials/1.5.2": {
+    "Xamarin.Essentials/1.5.3.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-qHxkrkx5jIC0X/qWhxCPZ3MuuOJm8bfCzAoUtlpOBSE4oV0JhrkTezK0A+IV+k/MeJ3zKc8FexaIXah9rlCTIw==",
-      "path": "xamarin.essentials/1.5.2",
-      "hashPath": "xamarin.essentials.1.5.2.nupkg.sha512"
+      "sha512": "sha512-BSLgDJUOPFRwTpQaftM+s4qb/MsTjrqXulEYDOcK6KF3i0Orf75zo3RwRfqnQ8WfpoEFxW/v0jgcPWCvOMgHxg==",
+      "path": "xamarin.essentials/1.5.3.2",
+      "hashPath": "xamarin.essentials.1.5.3.2.nupkg.sha512"
     },
-    "Xamarin.Essentials.Interfaces/1.5.2": {
+    "Xamarin.Essentials.Interfaces/1.5.3.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6IuMCgI40OCDcDdVFRjhOG2ooFiHwHLwfrlOlpfhYwOAmn+XHWHLC1qHtcrX5eQ+Hz3Sh1AnxU2oqOqujLPq5g==",
-      "path": "xamarin.essentials.interfaces/1.5.2",
-      "hashPath": "xamarin.essentials.interfaces.1.5.2.nupkg.sha512"
+      "sha512": "sha512-TfMF7sbc+2FT3PpU0CosSVSvOh6nzB1N4D3iTrZRg9/9DZejXWUCgmR+3iU3I7ydwRhiohKTPa4Gkw5WZEfQyQ==",
+      "path": "xamarin.essentials.interfaces/1.5.3.2",
+      "hashPath": "xamarin.essentials.interfaces.1.5.3.2.nupkg.sha512"
     },
-    "Xamarin.Forms/4.5.0.617": {
+    "Xamarin.Forms/4.7.0.813-pre2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-tB/h7bHEylOgNT+521SRnbmO+LCe5R3lPboD/icCMpa+FdjmxhZQ7+fIIPFDbhY2dqYetGRnAeJWXVx4NLbmAw==",
-      "path": "xamarin.forms/4.5.0.617",
-      "hashPath": "xamarin.forms.4.5.0.617.nupkg.sha512"
+      "sha512": "sha512-TRrX0jguALBqz3nlZSRyAsMbRN671Xt+fy/07RPSjTPG24gcS+4Hrjzua0sJJWXIl4rfh0VYkKoVwfkbZm2mOg==",
+      "path": "xamarin.forms/4.7.0.813-pre2",
+      "hashPath": "xamarin.forms.4.7.0.813-pre2.nupkg.sha512"
+    },
+    "Xamarin.Forms.Maps/4.7.0.813-pre2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cW+E9edqBCaDmqFQGuhe5HVE/qOX5pgL3tVOENlhTJdwGA/asEAUxrGsH+nW13cqcA4u1o+qG4KTLywpy9nLlg==",
+      "path": "xamarin.forms.maps/4.7.0.813-pre2",
+      "hashPath": "xamarin.forms.maps.4.7.0.813-pre2.nupkg.sha512"
+    },
+    "Taxi.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

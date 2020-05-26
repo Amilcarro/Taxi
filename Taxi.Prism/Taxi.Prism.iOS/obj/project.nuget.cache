@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mVdA6NsMld6YH8Tmbv6RC2kxDf2PhijD7UPxRWbAzi3wNQJZf2W6GIY8JNHg9brO63vNCbYXxiaRfOJzPmaAXQ==",
+  "dgSpecHash": "X/lM4/XATgtlbdAZfABwJw1jzrXBgQPcUIuxuQpRTf8CZmJODnKu+1/kTVn7hdw1AorS4dCwe936BGs0Yy0FpA==",
   "success": true,
   "projectFilePath": "F:\\Proyectos\\Taxi\\Taxi.Prism\\Taxi.Prism.iOS\\Taxi.Prism.iOS.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,10 @@
     "C:\\Users\\Amilcar\\.nuget\\packages\\prism.dryioc.forms\\7.2.0.1422\\prism.dryioc.forms.7.2.0.1422.nupkg.sha512",
     "C:\\Users\\Amilcar\\.nuget\\packages\\prism.forms\\7.2.0.1422\\prism.forms.7.2.0.1422.nupkg.sha512",
     "C:\\Users\\Amilcar\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
-    "C:\\Users\\Amilcar\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
-    "C:\\Users\\Amilcar\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.2\\xamarin.essentials.interfaces.1.5.2.nupkg.sha512",
-    "C:\\Users\\Amilcar\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
+    "C:\\Users\\Amilcar\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Amilcar\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.3.2\\xamarin.essentials.interfaces.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Amilcar\\.nuget\\packages\\xamarin.forms\\4.7.0.813-pre2\\xamarin.forms.4.7.0.813-pre2.nupkg.sha512",
+    "C:\\Users\\Amilcar\\.nuget\\packages\\xamarin.forms.maps\\4.7.0.813-pre2\\xamarin.forms.maps.4.7.0.813-pre2.nupkg.sha512"
   ],
   "logs": []
 }
