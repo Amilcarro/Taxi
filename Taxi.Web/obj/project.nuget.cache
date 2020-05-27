@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lMCqODHRPE3pzkNlWH2npXuzJh8LBKCMxLiS1xuwA2VY+Vrgp2Fj+cAb1YqR0yAJzeRWV6KH4aNmemGNYpLyWQ==",
+  "dgSpecHash": "CIDvbda20Pk4cR/HuIXfevoRAphXvh4WPU1Pl1GdC7hGkfnDLpSAdduUTdaUNEky1YQNcDn6zgCOsm45enhoqA==",
   "success": true,
   "projectFilePath": "F:\\Proyectos\\Taxi\\Taxi.Web\\Taxi.Web.csproj",
   "expectedPackageFiles": [
@@ -298,7 +298,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Amilcar\\.nuget\\packages\\xam.plugin.geolocator\\4.6.2-beta\\xam.plugin.geolocator.4.6.2-beta.nupkg.sha512"
   ],
   "logs": []
 }

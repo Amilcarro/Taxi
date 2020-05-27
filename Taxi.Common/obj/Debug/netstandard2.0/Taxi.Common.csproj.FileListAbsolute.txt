@@ -13,6 +13,6 @@ F:\Proyectos\Taxi\Taxi.Common\bin\Debug\netstandard2.0\Taxi.Common.pdb
 F:\Proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csprojAssemblyReference.cache
 F:\Proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfoInputs.cache
 F:\Proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.AssemblyInfo.cs
-F:\Proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csproj.CoreCompileInputs.cache
 F:\Proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.dll
 F:\Proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.pdb
+F:\Proyectos\Taxi\Taxi.Common\obj\Debug\netstandard2.0\Taxi.Common.csproj.CoreCompileInputs.cache

@@ -17,8 +17,6 @@ F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.cspr
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\App.xaml.g.cs
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfoInputs.cache
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.AssemblyInfo.cs
-F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CoreCompileInputs.cache
-F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\XamlC.stamp
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.dll
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.pdb
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
@@ -31,3 +29,5 @@ F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ModifyUse
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\ReportPage.xaml.g.cs
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiHistoryPage.xaml.g.cs
 F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Views\TaxiMasterDetailPage.xaml.g.cs
+F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\Taxi.Prism.csproj.CoreCompileInputs.cache
+F:\Proyectos\Taxi\Taxi.Prism\Taxi.Prism\obj\Debug\netstandard2.0\XamlC.stamp

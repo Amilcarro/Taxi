@@ -20,5 +20,11 @@
     <Compile Update="Models\UserResponse.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Services\GeolocatorService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Services\IGeolocatorService.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

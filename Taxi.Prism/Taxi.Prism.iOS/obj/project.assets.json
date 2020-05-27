@@ -14,6 +14,21 @@
           "lib/netstandard2.0/DryIoc.dll": {}
         }
       },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "Prism.Core/7.2.0.1422": {
         "type": "package",
         "compile": {
@@ -56,6 +71,21 @@
         },
         "runtime": {
           "lib/xamarinios10/_._": {}
+        }
+      },
+      "Xam.Plugin.Geolocator/4.6.2-beta": {
+        "type": "package",
+        "dependencies": {
+          "Plugin.Permissions": "5.0.0-beta"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -221,6 +251,9 @@
       "Taxi.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xam.Plugin.Geolocator": "4.6.2-beta"
+        },
         "compile": {
           "bin/placeholder/Taxi.Common.dll": {}
         },
@@ -232,6 +265,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Plugin.Permissions": "6.0.1",
           "Prism.DryIoc.Forms": "7.2.0.1422",
           "Taxi.Common": "1.0.0",
           "Xamarin.Essentials.Interfaces": "1.5.3.2",
@@ -259,6 +293,21 @@
           "lib/netstandard2.0/DryIoc.dll": {}
         }
       },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "Prism.Core/7.2.0.1422": {
         "type": "package",
         "compile": {
@@ -301,6 +350,21 @@
         },
         "runtime": {
           "lib/xamarinios10/_._": {}
+        }
+      },
+      "Xam.Plugin.Geolocator/4.6.2-beta": {
+        "type": "package",
+        "dependencies": {
+          "Plugin.Permissions": "5.0.0-beta"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -466,6 +530,9 @@
       "Taxi.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xam.Plugin.Geolocator": "4.6.2-beta"
+        },
         "compile": {
           "bin/placeholder/Taxi.Common.dll": {}
         },
@@ -477,6 +544,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Plugin.Permissions": "6.0.1",
           "Prism.DryIoc.Forms": "7.2.0.1422",
           "Taxi.Common": "1.0.0",
           "Xamarin.Essentials.Interfaces": "1.5.3.2",
@@ -504,6 +572,21 @@
           "lib/netstandard2.0/DryIoc.dll": {}
         }
       },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "Prism.Core/7.2.0.1422": {
         "type": "package",
         "compile": {
@@ -546,6 +629,21 @@
         },
         "runtime": {
           "lib/xamarinios10/_._": {}
+        }
+      },
+      "Xam.Plugin.Geolocator/4.6.2-beta": {
+        "type": "package",
+        "dependencies": {
+          "Plugin.Permissions": "5.0.0-beta"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -711,6 +809,9 @@
       "Taxi.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xam.Plugin.Geolocator": "4.6.2-beta"
+        },
         "compile": {
           "bin/placeholder/Taxi.Common.dll": {}
         },
@@ -722,6 +823,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Plugin.Permissions": "6.0.1",
           "Prism.DryIoc.Forms": "7.2.0.1422",
           "Taxi.Common": "1.0.0",
           "Xamarin.Essentials.Interfaces": "1.5.3.2",
@@ -749,6 +851,21 @@
           "lib/netstandard2.0/DryIoc.dll": {}
         }
       },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "Prism.Core/7.2.0.1422": {
         "type": "package",
         "compile": {
@@ -791,6 +908,21 @@
         },
         "runtime": {
           "lib/xamarinios10/_._": {}
+        }
+      },
+      "Xam.Plugin.Geolocator/4.6.2-beta": {
+        "type": "package",
+        "dependencies": {
+          "Plugin.Permissions": "5.0.0-beta"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Geolocator.dll": {}
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -956,6 +1088,9 @@
       "Taxi.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xam.Plugin.Geolocator": "4.6.2-beta"
+        },
         "compile": {
           "bin/placeholder/Taxi.Common.dll": {}
         },
@@ -967,6 +1102,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Plugin.Permissions": "6.0.1",
           "Prism.DryIoc.Forms": "7.2.0.1422",
           "Taxi.Common": "1.0.0",
           "Xamarin.Essentials.Interfaces": "1.5.3.2",
@@ -1010,6 +1146,37 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/DryIoc.xml",
         "lib/portable-net45+win8+wp8+wpa81/DryIoc.dll",
         "lib/portable-net45+win8+wp8+wpa81/DryIoc.xml"
+      ]
+    },
+    "Plugin.Permissions/6.0.1": {
+      "sha512": "na/0FNhyKmSicANWZMLSM0y/FW2AvLoawX3lsvBpELwP15sdJRyuBhRKk1OQjRoNrmTIewcON1tJFyydjMGWcA==",
+      "type": "package",
+      "path": "plugin.permissions/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid10.0/Plugin.Permissions.dll",
+        "lib/monoandroid10.0/Plugin.Permissions.pdb",
+        "lib/monoandroid80/Plugin.Permissions.dll",
+        "lib/monoandroid80/Plugin.Permissions.pdb",
+        "lib/monoandroid81/Plugin.Permissions.dll",
+        "lib/monoandroid81/Plugin.Permissions.pdb",
+        "lib/monoandroid90/Plugin.Permissions.dll",
+        "lib/monoandroid90/Plugin.Permissions.pdb",
+        "lib/netstandard1.0/Plugin.Permissions.dll",
+        "lib/netstandard1.0/Plugin.Permissions.pdb",
+        "lib/netstandard2.0/Plugin.Permissions.dll",
+        "lib/netstandard2.0/Plugin.Permissions.pdb",
+        "lib/uap10.0.16299/Plugin.Permissions.dll",
+        "lib/uap10.0.16299/Plugin.Permissions.pdb",
+        "lib/uap10.0.16299/Plugin.Permissions.pri",
+        "lib/xamarinios10/Plugin.Permissions.dll",
+        "lib/xamarinios10/Plugin.Permissions.pdb",
+        "lib/xamarintvos10/Plugin.Permissions.dll",
+        "lib/xamarintvos10/Plugin.Permissions.pdb",
+        "plugin.permissions.6.0.1.nupkg.sha512",
+        "plugin.permissions.nuspec",
+        "readme.txt"
       ]
     },
     "Prism.Core/7.2.0.1422": {
@@ -1109,6 +1276,52 @@
         "runtimes/aot/lib/netcore50/_._",
         "system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
         "system.reflection.emit.lightweight.nuspec"
+      ]
+    },
+    "Xam.Plugin.Geolocator/4.6.2-beta": {
+      "sha512": "UYqWCh2sHQUV987rSwsehirWv60JTuySq0aqXeo93hcHo+jBWfLzheV3xqyoc4ISf+z1ERBKZw6VT2iMabbIIw==",
+      "type": "package",
+      "path": "xam.plugin.geolocator/4.6.2-beta",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid70/Plugin.Geolocator.dll",
+        "lib/monoandroid70/Plugin.Geolocator.pdb",
+        "lib/monoandroid70/Plugin.Geolocator.xml",
+        "lib/monoandroid71/Plugin.Geolocator.dll",
+        "lib/monoandroid71/Plugin.Geolocator.pdb",
+        "lib/monoandroid71/Plugin.Geolocator.xml",
+        "lib/monoandroid80/Plugin.Geolocator.dll",
+        "lib/monoandroid80/Plugin.Geolocator.pdb",
+        "lib/monoandroid80/Plugin.Geolocator.xml",
+        "lib/monoandroid81/Plugin.Geolocator.dll",
+        "lib/monoandroid81/Plugin.Geolocator.pdb",
+        "lib/monoandroid81/Plugin.Geolocator.xml",
+        "lib/monoandroid90/Plugin.Geolocator.dll",
+        "lib/monoandroid90/Plugin.Geolocator.pdb",
+        "lib/monoandroid90/Plugin.Geolocator.xml",
+        "lib/netstandard1.0/Plugin.Geolocator.dll",
+        "lib/netstandard1.0/Plugin.Geolocator.pdb",
+        "lib/netstandard1.0/Plugin.Geolocator.xml",
+        "lib/netstandard2.0/Plugin.Geolocator.dll",
+        "lib/netstandard2.0/Plugin.Geolocator.pdb",
+        "lib/netstandard2.0/Plugin.Geolocator.xml",
+        "lib/uap10.0.16299/Plugin.Geolocator.dll",
+        "lib/uap10.0.16299/Plugin.Geolocator.pdb",
+        "lib/uap10.0.16299/Plugin.Geolocator.pri",
+        "lib/uap10.0.16299/Plugin.Geolocator.xml",
+        "lib/xamarinios10/Plugin.Geolocator.dll",
+        "lib/xamarinios10/Plugin.Geolocator.pdb",
+        "lib/xamarinios10/Plugin.Geolocator.xml",
+        "lib/xamarinmac20/Plugin.Geolocator.dll",
+        "lib/xamarinmac20/Plugin.Geolocator.pdb",
+        "lib/xamarinmac20/Plugin.Geolocator.xml",
+        "lib/xamarintvos10/Plugin.Geolocator.dll",
+        "lib/xamarintvos10/Plugin.Geolocator.pdb",
+        "lib/xamarintvos10/Plugin.Geolocator.xml",
+        "readme.txt",
+        "xam.plugin.geolocator.4.6.2-beta.nupkg.sha512",
+        "xam.plugin.geolocator.nuspec"
       ]
     },
     "Xamarin.Essentials/1.5.3.2": {

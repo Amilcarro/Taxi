@@ -4616,9 +4616,21 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Geolocator/4.6.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.Geolocator.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Geolocator.dll": {}
+        }
+      },
       "Taxi.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xam.Plugin.Geolocator": "4.6.2-beta"
+        },
         "compile": {
           "bin/placeholder/Taxi.Common.dll": {}
         },
@@ -12536,6 +12548,52 @@
         "ref/xamarinwatchos10/_._",
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
+      ]
+    },
+    "Xam.Plugin.Geolocator/4.6.2-beta": {
+      "sha512": "UYqWCh2sHQUV987rSwsehirWv60JTuySq0aqXeo93hcHo+jBWfLzheV3xqyoc4ISf+z1ERBKZw6VT2iMabbIIw==",
+      "type": "package",
+      "path": "xam.plugin.geolocator/4.6.2-beta",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid70/Plugin.Geolocator.dll",
+        "lib/monoandroid70/Plugin.Geolocator.pdb",
+        "lib/monoandroid70/Plugin.Geolocator.xml",
+        "lib/monoandroid71/Plugin.Geolocator.dll",
+        "lib/monoandroid71/Plugin.Geolocator.pdb",
+        "lib/monoandroid71/Plugin.Geolocator.xml",
+        "lib/monoandroid80/Plugin.Geolocator.dll",
+        "lib/monoandroid80/Plugin.Geolocator.pdb",
+        "lib/monoandroid80/Plugin.Geolocator.xml",
+        "lib/monoandroid81/Plugin.Geolocator.dll",
+        "lib/monoandroid81/Plugin.Geolocator.pdb",
+        "lib/monoandroid81/Plugin.Geolocator.xml",
+        "lib/monoandroid90/Plugin.Geolocator.dll",
+        "lib/monoandroid90/Plugin.Geolocator.pdb",
+        "lib/monoandroid90/Plugin.Geolocator.xml",
+        "lib/netstandard1.0/Plugin.Geolocator.dll",
+        "lib/netstandard1.0/Plugin.Geolocator.pdb",
+        "lib/netstandard1.0/Plugin.Geolocator.xml",
+        "lib/netstandard2.0/Plugin.Geolocator.dll",
+        "lib/netstandard2.0/Plugin.Geolocator.pdb",
+        "lib/netstandard2.0/Plugin.Geolocator.xml",
+        "lib/uap10.0.16299/Plugin.Geolocator.dll",
+        "lib/uap10.0.16299/Plugin.Geolocator.pdb",
+        "lib/uap10.0.16299/Plugin.Geolocator.pri",
+        "lib/uap10.0.16299/Plugin.Geolocator.xml",
+        "lib/xamarinios10/Plugin.Geolocator.dll",
+        "lib/xamarinios10/Plugin.Geolocator.pdb",
+        "lib/xamarinios10/Plugin.Geolocator.xml",
+        "lib/xamarinmac20/Plugin.Geolocator.dll",
+        "lib/xamarinmac20/Plugin.Geolocator.pdb",
+        "lib/xamarinmac20/Plugin.Geolocator.xml",
+        "lib/xamarintvos10/Plugin.Geolocator.dll",
+        "lib/xamarintvos10/Plugin.Geolocator.pdb",
+        "lib/xamarintvos10/Plugin.Geolocator.xml",
+        "readme.txt",
+        "xam.plugin.geolocator.4.6.2-beta.nupkg.sha512",
+        "xam.plugin.geolocator.nuspec"
       ]
     },
     "Taxi.Common/1.0.0": {

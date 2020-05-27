@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aVfqtl8SnHNFptXM2dJsRGiqTHy/qAa8YataOTfEQpWsaLlTqbridgw3Dp5Nfu9OUN7binSx4PlbXRKc80P2fQ==",
+  "dgSpecHash": "QzkMsE/KAMhufNbKirW2FIPy11QVdBMk7UUYpNwcEV+bcCGWl6hrbKepw1b7/K2HFYrXPerLhwoxGxvhgEJ+8Q==",
   "success": true,
   "projectFilePath": "F:\\Proyectos\\Taxi\\Taxi.Common\\Taxi.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Amilcar\\.nuget\\packages\\xam.plugin.geolocator\\4.6.2-beta\\xam.plugin.geolocator.4.6.2-beta.nupkg.sha512"
   ],
   "logs": []
 }

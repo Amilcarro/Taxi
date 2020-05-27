@@ -1,4 +1,7 @@
 FormsViewGroup
+Plugin.CurrentActivity
+Plugin.Geolocator
+Plugin.Permissions
 Prism.Forms
 Xamarin.AndroidX.Activity
 Xamarin.AndroidX.Annotation
